@@ -6,8 +6,7 @@
 
 ### Hello 🚀
 
-There is no problem that cannot be solved by adding an intermediate layer. If there is, add two layers.
-But the only obstacle between me and you cannot be made up through the middle layer, because that is a different culture and language.
+There is no problem that can't be solved by adding an intermediate layer. If there is, add two layers. But the only obstacle between you and me can't be made up through the middle layer, because it is  different culture and language.
 
 
 🌐 💌 🥪 🍉 🥚 💩 🍎 🎈 ⚡ 🛰️ 🎃 🥯
