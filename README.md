@@ -10,7 +10,7 @@
 ### Hello 🚀
 
 - Full Chinese [MCSManager](https://github.com/MCSManager) Minecraft control panel developer.
-- Developer of `Minecraft` Spigot plug-in developers.
+- `Minecraft` Spigot plug-in developer.
 - `Minecraft`, `World of Warships` gamer
 - `Web` full-stack developer.
 
