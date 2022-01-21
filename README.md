@@ -11,8 +11,10 @@
 
 - Full Chinese [MCSManager](https://github.com/MCSManager) Minecraft control panel developer.
 - `Minecraft` Spigot plug-in developer.
-- `Minecraft`, `World of Warships` gamer
+- Use `JS/TS` and `Java` as primary development languages.
 - `Web` developer.
+- `Minecraft`, `World of Warships` player
+
 
 
 🌐 💌 🥪 🍉 🥚 💩 🍎 🎈 ⚡ 🛰️ 🎃 🥯
