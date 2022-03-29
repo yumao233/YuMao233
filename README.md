@@ -8,7 +8,7 @@
 
 ### Hello 🚀
 
-- Full Chinese [MCSManager](https://github.com/MCSManager) Minecraft control panel developer.
+- Developer of [MCSManager](https://github.com/MCSManager), a Minecraft server management panel for the Chinese market.
 - Use `JS/TS` and `Java` as primary development languages.
 - `Minecraft`, `World of Warships` player
 - `Web` developer.
