@@ -1,6 +1,8 @@
 ### 简介 👋
 
-面向中国用户的 Minecraft 服务端管理面板 [MCSManager](https://github.com/MCSManager) 作者。正在试图开发一款面向 Steam 的通用游戏服务器控制面板。
+全中文的 Minecraft 与其他游戏的服务端程序 Web 管理面板 [MCSManager](https://github.com/MCSManager) 作者。
+
+正在开发一款面向 Steam Server/Console App 的通用程序 Web 控制面板。
 
 ### Hello 🚀
 
