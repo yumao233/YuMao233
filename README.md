@@ -8,10 +8,7 @@
 
 Developer of [MCSManager](https://github.com/MCSManager), a Minecraft server management panel for the Chinese market.
 
-if you have any ideas/comments on the projects I developed, please send emails or open issues.
+if you have any ideas on the projects I developed, please send emails or open issues.
 
-<br />
-
-![stats png](https://github-readme-stats.vercel.app/api?username=unitwk&count_private=true&show_icons=true)
 
 🌐 💌 🥪 🍉 🥚 💩 🍎 🎈 ⚡ 🛰️ 🎃 🥯
