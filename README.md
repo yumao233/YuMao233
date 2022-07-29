@@ -11,6 +11,7 @@ Developer of [MCSManager](https://github.com/MCSManager), a Minecraft server man
 if you have any ideas on the projects I developed, please send emails or open issues.
 
 
+
 🌐 💌 🥪 🍉 🥚 💩 🍎 🎈 ⚡ 🛰️ 🎃 🥯
 
 
