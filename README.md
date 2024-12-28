@@ -8,7 +8,7 @@ All the items `pinned` at the bottom are our development projects. If you have a
 
 ### 中文
 
-- [MCSManager](https://github.com/MCSManager) 开发者, 一个免费，易用，安全，分布式支持，现代化的 Minecraft 和 Steam 游戏服务器管理面板。
+[MCSManager](https://github.com/MCSManager) 开发者, 一个免费，易用，安全，分布式支持，现代化的 Minecraft 和 Steam 游戏服务器管理面板。
 
 全栈开发者，一般使用 `JavaScript/TypeScirpt`, `Go`。
 
